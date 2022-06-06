@@ -10,6 +10,6 @@
 
 <a href="https://neootavio.github.io/projeto-android/index.html">Projeto Android</a>
 
-<a href="https://neootavio.github.io/desafio-12/index.html">Projeto Cordel</a>
+<a href="https://neootavio.github.io/projeto-cordel/">Projeto Cordel</a>
 
 Eu amo Rayara!
